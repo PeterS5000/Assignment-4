@@ -31,7 +31,7 @@ How to Run
 ----------
 After compiling, run the executable:
 
-    ./memory_management
+    ./OperatingSystemsAssignmentFour
 
 The program will simulate both:
 1. The full input sequence provided in the assignment
