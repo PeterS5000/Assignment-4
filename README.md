@@ -65,15 +65,3 @@ Output
 - Custom messages for swapped out or terminated processes
 - Final state of holes in memory printed after all operations
 
-Submission Contents
--------------------
-- Handwritten solution to Part A (scanned or photographed)
-- Source code file: memory_management.c
-- Screenshots of:
-    - Given input scenario output
-    - Custom input scenario output
-- README.txt (this file)
-
-Questions
----------
-If you have any questions, feel free to ask!
