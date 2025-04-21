@@ -25,7 +25,7 @@ Compilation Instructions
 ------------------------
 To compile the program, use:
 
-    gcc memory_management.c -o memory_management
+    gcc OperatingSystemsAssignmentFour.c -o OperatingSystemsAssignmentFour
 
 How to Run
 ----------
